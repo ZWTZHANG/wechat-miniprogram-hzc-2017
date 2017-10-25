@@ -1,0 +1,29 @@
+<view class="page">
+    <view class="page__hd">
+    
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            
+            <view class="weui-article__section">
+               
+                <view class="weui-article__section">
+                    <view class="weui-article__h3"></view>
+                    <view class="weui-article__p">
+                       公司奉行"待人如己"的经营理念时刻以顾客的满意作为自己追求的目标。秉承"以人为本"的设计理念，严格质量检测，使其产品成为艺术与科技完美结合的典范。作为旅行用品领域的行家，它以世界带头人和创新者的形象，不断创造出别具匠心、经久耐用、时尚舒适的箱包产品。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="../images/7.png" mode="aspectFit" style="height: 180px" />
+                        <image class="weui-article__img" src="../images/6.png" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    
+                    <view class="weui-article__p">
+                       Samsonite的产品已经延伸至三大领域，分别是旅行、公文和休闲，为全世界的旅行者提供了一套全面的旅行配备方案。在近一百年的发展历程中，作为箱包行业的引领者和先行者，Samsonite一直致力于为全球的旅行者提供舒适而可靠的高品质创新产品。以其优秀而卓越的产品质量、与时代同步的设计风格、考虑周到的实用性和可靠性以及完善的售后服务，使Samsonite赢得了世界各地消费者的喜爱和认同。
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>

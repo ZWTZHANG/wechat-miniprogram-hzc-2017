@@ -1,0 +1,29 @@
+<view class="page">
+    <view class="page__hd">
+    
+    </view>
+    <view class="page__bd">
+        <view class="weui-article">
+            
+            <view class="weui-article__section">
+               
+                <view class="weui-article__section">
+                    <view class="weui-article__h3"></view>
+                    <view class="weui-article__p">
+                       新秀丽的各款行李箱、拉杆箱、商务旅行包、背包、电脑包等及其他配套旅行饰品，实用、时尚。从高品位、多功能，豪华的高档系列到低价位结构简洁、朴实的大众系列，一应俱全，为旅行者提供了充分的选择余地。假如您的出行时间较长，可选择结实的大型硬质箱，它能承受40公斤的重力;牵引带还可有效减轻箱体自重;细节的讲究更是明眼可见，手柄、密码锁处分别镶嵌小牛皮和桃木，提升了商品档次;内置更体贴，收纳隔离层，可拆卸重组;丰富的色彩让您尽情挑选。拉杆箱采用高档甲胄尼龙，防水耐磨;按钮式拉杆，长度可任意调配，45度的拉向符合人体工程学设计;滑轮具有特殊的吸振功能，与支脚的一体化设计，使箱体站立更稳，滑行更流畅;箱体的防护条可减少磨损。子母拉杆箱设计更时尚、体贴，商务出差人士还可随意搭配电脑包，扩展层增加了35%的容量。此外，旅行气枕、折叠包、护照包、西服袋等旅行配件也是Samsonite体贴入微的体现，呵护着您的出游情绪。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="../images/9.png" mode="aspectFit" style="height: 180px" />
+                        <image class="weui-article__img" src="../images/8.png" mode="aspectFit" style="height: 180px" />
+                    </view>
+                </view>
+                <view class="weui-article__section">
+                    
+                    <view class="weui-article__p">
+                       
+                    </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>
